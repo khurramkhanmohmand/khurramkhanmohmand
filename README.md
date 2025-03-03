@@ -107,19 +107,4 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code
 consists of and doesn't reflect experience or skill level.
  
- ## Connect with me:
-<p align="left">
-	<a href="mailto:khurram.iftikhar.khan@gmail.com"
-		><img src="https://img.icons8.com/material-outlined/48/000000/email.png"
-	/></a>
-	<a href="https://www.linkedin.com/in/khurram-khan-19790b52/"
-		><img src="https://img.icons8.com/color/50/000000/linkedin.png"
-	/></a>
-</p>
 
-## ❤ Views and Followers
-
-<a href="https://github.com/khurramkhanmohmand?tab=followers">
-	<img src="https://img.shields.io/github/followers/khurramkhanmohmand?label=Followers&style=social"
-		alt="GitHub Badge"
-/></a>
