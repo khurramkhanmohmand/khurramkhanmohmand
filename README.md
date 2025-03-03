@@ -87,21 +87,21 @@
 <p align="center">
 	<img
 		title="🔥 Get streak stats for your profile at git.io/streak-stats"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=asifakram74&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=khurramkhanmohmand&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
 	/>
 </p>
 
 ## 📊 My Github Stats
 
 <br />
-<a href="https://github.com/asifakram74/github-readme-stats"
+<a href="https://github.com/khurramkhanmohmand/github-readme-stats"
 	><img
-		src="https://github-readme-stats.vercel.app/api?username=asifakram74&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+		src="https://github-readme-stats.vercel.app/api?username=khurramkhanmohmand&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
 /></a>
 
-<a href="https://github.com/asifakram74/github-readme-stats"
+<a href="https://github.com/khurramkhanmohmand/github-readme-stats"
 	><img
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifakram74&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramkhanmohmand&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
 /></a>
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code
